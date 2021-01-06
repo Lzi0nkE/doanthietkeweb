@@ -578,6 +578,19 @@ a:after {
     color: #0080ff
 }
 
+.playertopdes {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-family: Rajdhani, sans-serif;
+    font-weight: bold;
+    margin-top: 16px;
+}
+
+.playerdes {
+    color: rgb(255, 255, 255);
+    font-family: Rajdhani, sans-serif;
+}
+
 .newsdes {
     width: 800px
 }
